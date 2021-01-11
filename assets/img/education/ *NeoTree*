@@ -1,0 +1,21 @@
+<ier/Projects/jstoledano
+			..
+			.git/
+			_data/
+  				education.yml
+  				experience.yml
+  				projects.yml
+			_includes/
+			_layouts/
+			_sass/
+			assets/
+			projects/
+  				sprint1.md
+				.gitignore
+				404.html
+				Gemfile
+				Gemfile.lock
+				LICENSE
+				README.md
+				_config.yml
+				index.html
