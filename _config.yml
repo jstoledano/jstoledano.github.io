@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  Sitio personal de Javier Sanchez Toledano
  Personal site for Javier Sanchez Toledano
 baseurl: "/" 
-url: "/" 
+url: "/jstoledano" 
 twitter_username: jstoledano
 github_username:  jstoledano
 
